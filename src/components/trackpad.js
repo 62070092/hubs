@@ -16,18 +16,12 @@ AFRAME.registerComponent('movement-view', {
 
     sceneEl.addEventListener('wheel', (e) => {
       e.preventDefault();
-      // console.log(e.deltaX)
       if (e.ctrlKey) {
-        //scale -= e.deltaY * 0.01;
         console.log(rotation);
-        // console.log(el.object3D.getWorldPosition(new THREE.Vector3()))
-        //el.setAttribute('rotation', { x: 0, y: 1, z: (posY_start + scalse) });
       } else {
 
         console.log("X",e.deltaX);
         console.log("Y",e.deltaY);
-        // console.log("posY",posX);
-        // console.log("posX",posY);
 
         posX -= e.deltaX * 2;
         posY -= e.deltaY * 2;
@@ -37,7 +31,6 @@ AFRAME.registerComponent('movement-view', {
         var direction = new THREE.Vector3(posX_start + posX/100, 1, posY_start + posY/100);
         direction.applyQuaternion(el.object3D.quaternion);
 
-        // console.log(direction.x)
         posY_current = _newPosY;
         posX_current = _newPosX;
 

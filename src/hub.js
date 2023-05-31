@@ -140,6 +140,7 @@ import "./components/avatar-inspect-collider";
 import "./components/video-texture-target";
 import "./components/mirror";
 import "./components/trackpad";
+import "./components/extended-wasd-controls";
 
 import ReactDOM from "react-dom";
 import React from "react";
