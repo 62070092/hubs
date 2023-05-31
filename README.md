@@ -1,5 +1,5 @@
 ## ระบบห้องเรียนเสมือนออนไลน์สามมิติ โดยใช้ Mozilla Hub Platform
-## (3D Online Virtual Classroom System using Mozilla Hub Platform)
+### (3D Online Virtual Classroom System using Mozilla Hub Platform)
 #### สถาบันเทคโนโลยีสารสนเทศพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
 #### โดย Github นี้ เป็นการ Fork จากเว็บไซต์ทางการของ Mozila Hubs เพื่อทำการปรับแต่งส่วนเสริม
@@ -15,7 +15,7 @@
     หรือทำการดาวน์โหลดไฟล์ spoke เพื่อทำการแก้ไข 
     * [ไฟล์ฉากห้องเรียน](https://drive.google.com/file/d/14k6hgLfrrNqrbJWl03pD2sKaLNhrGXwl/view)
 
-#### รายละเอียดข้อมูลของ Mozilla Hubs และขั้นตอนการติดตั้งต่างๆสามารถทำได้ตามขั้นตอนตามเว็บไซต์ทางการของ Mozilla Hubs
+##### รายละเอียดข้อมูลของ Mozilla Hubs และขั้นตอนการติดตั้งต่างๆสามารถทำได้ตามขั้นตอนตามเว็บไซต์ทางการของ Mozilla Hubs
 
 
 
