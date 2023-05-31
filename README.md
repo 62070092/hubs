@@ -1,3 +1,25 @@
+## ระบบห้องเรียนเสมือนออนไลน์สามมิติ โดยใช้ Mozilla Hub Platform
+## (3D Online Virtual Classroom System using Mozilla Hub Platform)
+#### สถาบันเทคโนโลยีสารสนเทศพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+
+#### โดย Github นี้ เป็นการ Fork จากเว็บไซต์ทางการของ Mozila Hubs เพื่อทำการปรับแต่งส่วนเสริม
+#### โดยมีรายละเอียดดังต่อไปนี้
+
+1.การปรับแต่งส่วนเสริมโดยการเคลื่อนที่ด้วย Trackpad 
+    * trackpad.js
+2.การปรับแต่งการหมุนด้วยการกดปุ่มคีบอร์ด
+    * extended-wasd-controls.js
+3.การปรับแต่งฉากห้องเรียน
+    สามารถนำ url ของห้องที่สร้างไปใช้เมื่อทำการสร้างห้องได้เลย
+    * [ฉากห้องเรียน](https://hubs.mozilla.com/scenes/594JLfN) 
+    หรือทำการดาวน์โหลดไฟล์ spoke เพื่อทำการแก้ไข 
+    * [ไฟล์ฉากห้องเรียน](https://drive.google.com/file/d/14k6hgLfrrNqrbJWl03pD2sKaLNhrGXwl/view)
+
+#### รายละเอียดข้อมูลของ Mozilla Hubs และขั้นตอนการติดตั้งต่างๆสามารถทำได้ตามขั้นตอนตามเว็บไซต์ทางการของ Mozilla Hubs
+
+
+
+
 # [Mozilla Hubs](https://hubs.mozilla.com/)
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) [![Build Status](https://travis-ci.org/mozilla/hubs.svg?branch=master)](https://travis-ci.org/mozilla/hubs) [![Discord](https://img.shields.io/discord/498741086295031808)](https://discord.gg/CzAbuGu)
